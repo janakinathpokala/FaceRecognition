@@ -12,7 +12,7 @@
 
 # Approach:
 
-
+<img src="img1.PNG">
 
 
 # References:
