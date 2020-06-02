@@ -14,6 +14,11 @@
 
 <img src="img1.PNG">
 
+# Programming/Libraries:
+1. Python
+2. Tensorflow
+3. Keras
+4. opencv
 
 # References:
 1. FaceNet: A Unified Embedding for Face Recognition and Clustering .
