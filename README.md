@@ -1,27 +1,27 @@
-# Face Recognition using Facenet transfer learning
+# **Face Recognition using Facenet transfer learning**
 
-# Introduction:
+## **Introduction:**
 * Face recognition is a computer vision task of identifying and verifying a person based on a photograph of their face.
 * Face verification is used to verify the given face against a known identity(1:1 mapping).
 * Face recognition is used to verify a given against a database of known faces(1:N mapping).
 
-# Concepts:
+## **Concepts:**
 * One shot Learning
 * Siamese Network
 * Triple Loss function
 
-# Approach:
+## **Approach:**
 
 <img src="img1.PNG">
 
-# Programming/Libraries:
+## **Programming/Libraries:**
 1. Python
 2. Tensorflow
 3. Keras
 4. opencv
 
-# References:
+## **References:**
 1. FaceNet: A Unified Embedding for Face Recognition and Clustering .
-2. DeepFace: Closing the gap to human-level performance in face verification
-3. The pretrained model weights: https://github.com/iwantooxxoox/Keras-OpenFace.
-4. FaceNet github repository: https://github.com/davidsandberg/facenet
+2. DeepFace: Closing the gap to human-level performance in face verification.
+3. [The pretrained model weights](https://github.com/iwantooxxoox/Keras-OpenFace)
+4. [FaceNet github repository](https://github.com/davidsandberg/facenet)
